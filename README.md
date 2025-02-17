@@ -17,7 +17,7 @@ This is my solution to the [Recipe Page challenge](https://www.frontendmentor.io
 
 ### The challenge
 
-The project features an omelette recipe page built with semantic HTML and a mobile-first approach.
+The project features an omelette recipe page built with a mobile-first approach.
 
 
 ### How it looks
@@ -35,7 +35,7 @@ The project features an omelette recipe page built with semantic HTML and a mobi
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 markup
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
